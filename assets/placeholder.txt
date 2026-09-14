@@ -1,0 +1,1 @@
+Place your icons/images in this folder. Use PNGs for best results.
